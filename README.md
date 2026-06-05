@@ -150,14 +150,14 @@ pip3 install requests
 ---
  ## Screenshots
 
-### Wazuh Dashboard
-![Wazuh Dashboard](screenshots/wazuh1.jpg)
+### Airia Dashboard
+![Wazuh Dashboard](screenshots/airia.jpg)
 
-### Active Agents
-![Active Agents](screenshots/wazuh2.jpg)
+### Kali Linux (Attacker)
+![Active Agents](screenshots/kali.jpg)
 
-### Security Alerts
-![Security Alerts](screenshots/wazuh3.jpg)
+### Output
+![Security Alerts](screenshots/output.jpg)
 
 ---
 
